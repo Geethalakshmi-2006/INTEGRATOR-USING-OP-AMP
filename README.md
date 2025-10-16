@@ -45,9 +45,9 @@ ii)  SQUARE WAVE INPUT
 
 
 ## GRAPH:
-<img width="824" height="1040" alt="image" src="https://github.com/user-attachments/assets/491d5f22-001c-4504-8e6e-7faa3b2eb967" />
+<img width="824" height="1040" alt="image" src="https://github.com/user-attachments/assets/6823a7c3-95e7-458c-afc3-bcbb2010b171" />
 
-<img width="824" height="1040" alt="image" src="https://github.com/user-attachments/assets/8c0df945-afe0-458a-bd1c-6b7f6873cfac" />
+<img width="824" height="1040" alt="image" src="https://github.com/user-attachments/assets/d1653eb8-e19e-43fb-99bf-6150af860caf" />
 
 
 
